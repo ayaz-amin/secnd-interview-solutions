@@ -1,4 +1,4 @@
-# Machine Learning Intern Assessment Project: Product Image Classification Challenge
+# Machine Learning Intern Assessment Project
 
 ## Project Overview
 In this 2-3 hour assessment, you'll develop a model to classify product images into their respective categories. This project tests your computer vision skills, feature engineering approach, and model selection decisions.
