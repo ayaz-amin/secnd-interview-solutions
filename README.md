@@ -15,7 +15,7 @@ For this assessment:
 - You will work with a subset of 1,500 images across 5 selected categories
 - Data is split into training set (70%) with labels and test set (30%) without labels
 - The dataset includes styles.csv (product metadata) and corresponding image files
-- Sample starter code for loading and visualizing images will be provided
+- The use of Pytorch is mandatory
 
 ## Project Requirements
 
