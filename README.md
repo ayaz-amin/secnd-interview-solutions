@@ -1,14 +1,15 @@
 # Machine Learning Intern Assessment Project
 
 ## Project Overview
-In this 2-3 hour assessment, you'll develop a model to classify product images into their respective categories. This project tests your computer vision skills, feature engineering approach, and model selection decisions.
+In this 2 day assessment, you'll develop a model to classify product images into their respective categories. This project tests your computer vision skills, feature engineering approach, and model selection decisions.
 
 ## Dataset
-We will be using a subset of the "44k Products" dataset which contains:
+We will be using a subset of the assessment dataset which contains:
 - High-resolution product images 
 - Multiple category labels per product
 - Product descriptions and metadata
 - A diverse range of product types
+- The link to the dataset is [here](https://drive.google.com/file/d/1vWl0jXYcxNcNvSBNp8-53aJQkJE-3-fe/view?usp=sharing)
 
 For this assessment:
 - You will work with a subset of 1,500 images across 5 selected categories
@@ -63,7 +64,7 @@ For this assessment:
 5. **Communication:** Clarity of documentation and explanations
 
 ## Dataset Source
-The dataset is a curated subset of the "44k Products" dataset, which contains product images with multiple category labels, descriptions, and metadata. The full dataset includes professionally shot high-resolution product images along with descriptive attributes.
+The dataset is a curated dataset, which contains product images with multiple category labels, descriptions, and metadata. The full dataset includes professionally shot high-resolution product images along with descriptive attributes.
 
 For this assessment, we've selected 1,500 representative images across 5 major product categories. You'll have access to:
 1. Product images (.jpg files)
